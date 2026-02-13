@@ -44,6 +44,11 @@ Count plots
 Histograms
 
 Observed key trends influencing income classification
+## Dataset Used
+
+The dataset used in this project is available at the following link:
+
+https://drive.google.com/file/d/1iLmlanshe5wba7TNlTRuyY3r82eYhwAS/view
 
 ## 🤖 Machine Learning Models
 ### 1. Logistic Regression
